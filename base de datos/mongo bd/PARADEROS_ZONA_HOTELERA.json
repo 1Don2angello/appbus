@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "64484ddf4f8811a64346e427"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R03 REHOYADA ",
+  "ubicacion_base": "21.175892,-86.8235141",
+  "zona": "HOTELERA",
+  "numero_ruta": 3
+},{
+  "_id": {
+    "$oid": "644938d98e78036088b795aa"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R08 HEROES",
+  "ubicacion_base": "21.1891116,-86.8815289",
+  "zona": "HOTELERA",
+  "numero_ruta": 8
+},{
+  "_id": {
+    "$oid": "644938d98e78036088b795ab"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R33 TORITO",
+  "ubicacion_base": "21.1981011,-86.855598",
+  "zona": "HOTELERA",
+  "numero_ruta": 33
+},{
+  "_id": {
+    "$oid": "644938d98e78036088b795ac"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R34 VILLAS DEL MAR",
+  "ubicacion_base": "21.202056,-86.8772788",
+  "zona": "URBANA SUR",
+  "numero_ruta": 34
+},{
+  "_id": {
+    "$oid": "644938d98e78036088b795ad"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R36 LAK IN",
+  "ubicacion_base": "21.1455802,-86.9043132",
+  "zona": "HOTELERA",
+  "numero_ruta": 36
+},{
+  "_id": {
+    "$oid": "644938d98e78036088b795ae"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R67 LEONA VICARIO",
+  "ubicacion_base": "21.1532866,-86.9106983",
+  "zona": "HOTELERA",
+  "numero_ruta": "67"
+},{
+  "_id": {
+    "$oid": "64493d0a8e78036088b795cc"
+  },
+  "fecha": "26/04/2023",
+  "nombre_terminal": "TERNINAL - WESTIN",
+  "ubicacion_termial": "21.0412308,-86.7828893",
+  "zona": "HOTELERA"
+}]

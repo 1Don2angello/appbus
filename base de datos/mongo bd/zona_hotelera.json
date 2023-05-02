@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "644810ab4f8811a64346e3f4"
+  },
+  "numero_ruta": 3,
+  "nombre_ruta": "REHOYADA - WESTIN",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Carr. Costera del Golfo Supermanzana 68, 77524 Cancún, Q.R.",
+  "nombre_base": "BASE R03 REHOYADA",
+  "ubicacion_base": "21.175791, -86.823617",
+  "terminal": "Zona Hotelera, Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "HOTELERA",
+  "nombre_terminal": "ZONA HOTELERA"
+},{
+  "_id": {
+    "$oid": "644838064f8811a64346e3f5"
+  },
+  "numero_ruta": 8,
+  "nombre_ruta": "HEROES - WESTIN",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Base ruta 8 sea, Av. Chac Mool, 77553 Cancún, Q.R.",
+  "nombre_base": "BASE RUTA 08 HEROES",
+  "ubicacion_base": "21.189076, -86.881491",
+  "terminal": "Zona Hotelera, Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "HOTELERA",
+  "nombre_terminal": "ZONA HOTELERA"
+},{
+  "_id": {
+    "$oid": "644838064f8811a64346e3f6"
+  },
+  "numero_ruta": 33,
+  "nombre_ruta": "TORITO - WESTIN",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Av. Tules, Cancún, Q.R.",
+  "nombre_base": "BASE RUTA 33 TORITO",
+  "ubicacion_base": "21.198033, -86.855569",
+  "terminal": "Zona Hotelera, Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "HOTELERA",
+  "nombre_terminal": "ZONA HOTELERA"
+},{
+  "_id": {
+    "$oid": "644838064f8811a64346e3f7"
+  },
+  "numero_ruta": 34,
+  "nombre_ruta": "VILLAS DEL MAR - WESTIN",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Bodega Aurrerá Express Villas del Mar III, 77517 Q.R.",
+  "nombre_base": "BASE RUTA 34 VILLAS DEL MAR",
+  "ubicacion_base": "21.201870, -86.877233",
+  "terminal": "Zona Hotelera, Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "HOTELERA",
+  "nombre_terminal": "ZONA HOTELERA"
+},{
+  "_id": {
+    "$oid": "644838064f8811a64346e3f8"
+  },
+  "numero_ruta": 36,
+  "nombre_ruta": "LAK IN - WESTIN",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Cancún, Quintana Roo",
+  "nombre_base": "PARADERO RUTA 36 LAK IN",
+  "ubicacion_base": "21.145587, -86.904288",
+  "terminal": "Zona Hotelera, Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "HOTELERA",
+  "nombre_terminal": "ZONA HOTELERA"
+},{
+  "_id": {
+    "$oid": "644838064f8811a64346e3f9"
+  },
+  "numero_ruta": 8,
+  "nombre_ruta": "CHACMOOL PORTILLO - WESTIN",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Base ruta 8 sea, Av. Chac Mool, 77553 Cancún, Q.R. ",
+  "nombre_base": "R8 CHACMOOL PORTILLO",
+  "ubicacion_base": "21.189082, -86.881490",
+  "terminal": "Zona Hotelera, Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "HOTELERA",
+  "nombre_terminal": "ZONA HOTELERA"
+},{
+  "_id": {
+    "$oid": "644838064f8811a64346e3fa"
+  },
+  "numero_ruta": 67,
+  "nombre_ruta": "LEONA VICARIO - WESTIN",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Av. Lak'in, Quintana Roo",
+  "nombre_base": "BASE R67 LEONA VICARIO",
+  "ubicacion_base": "21.153322, -86.910656",
+  "terminal": "Zona Hotelera, Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "HOTELERA",
+  "nombre_terminal": "ZONA HOTELERA"
+}]

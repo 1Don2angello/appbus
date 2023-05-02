@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "644843734f8811a64346e409"
+  },
+  "numero_ruta": 5,
+  "nombre_ruta": "MIGUEL HIDALGO - PLAZA LAS AMERICAS",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": " Cancún, 77539 Q.R.",
+  "nombre_base": "BASE R01 MIGUEL HIDALGO (R5)",
+  "ubicacion_base": "21.143792, -86.917685",
+  "terminal": "Av. Tulum Sur Supermanzana 7, 77503 Cancún, Q.R.",
+  "ubicacion_terminal": "21.041218, -86.782913",
+  "zona": "URBANA NORTE",
+  "nombre_terminal": "PLAZA LAS AMERICAS"
+},{
+  "_id": {
+    "$oid": "644843734f8811a64346e40a"
+  },
+  "numero_ruta": 17,
+  "nombre_ruta": "Isla Margarita, México- PLAZA LAS AMERICAS",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": " Isla Margarita, 77519 Q.R., México",
+  "nombre_base": "BASE R17 LEONA VICARIO ",
+  "ubicacion_base": "21.143792, -86.917685",
+  "terminal": "Av. Tulum Sur Supermanzana 7, 77503 Cancún, Q.R.",
+  "ubicacion_terminal": "21.174531, -86.909700",
+  "zona": "URBANA NORTE",
+  "nombre_terminal": "PLAZA LAS AMERICAS"
+}]

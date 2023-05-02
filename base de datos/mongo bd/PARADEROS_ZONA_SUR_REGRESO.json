@@ -1,0 +1,1927 @@
+[{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b660"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. LAS TORRES",
+  "ubicacion_base": "21.1328031,-86.8598175",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b661"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 103",
+  "ubicacion_base": "21.1328531,-86.8572104",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b662"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. LA LUNA",
+  "ubicacion_base": "21.1329232,-86.8550861",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b663"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 50 ",
+  "ubicacion_base": "21.1349395,-86.85329",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b664"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. POLITECNICO",
+  "ubicacion_base": "21.1357853,-86.8516552",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b665"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 73",
+  "ubicacion_base": "21.1357653,-86.8494772",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b666"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE PEHALTUN",
+  "ubicacion_base": "21.1357953,-86.8468487",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b667"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE KANTUNILKIN",
+  "ubicacion_base": "21.1358103,-86.8441979",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b668"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. LAS TORRES",
+  "ubicacion_base": "21.1333986,-86.8439618",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b669"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - GASOLINERA ",
+  "ubicacion_base": "21.1333033,-86.841869",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b66a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 56",
+  "ubicacion_base": "21.1333733,-86.8386074",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b66b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - DEL MAYAB",
+  "ubicacion_base": "21.1334834,-86.8355497",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b66c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. KABAH",
+  "ubicacion_base": "21.1335735,-86.8329748",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b66d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - KOLE KAABAL",
+  "ubicacion_base": "21.1315022,-86.8326437",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b66e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - TECNOLOGICO DE CANCUN",
+  "ubicacion_base": "21.138866,-86.8329024",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b66f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. NIZUC",
+  "ubicacion_base": "21.1412501,-86.8326771",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b670"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. CONTOY",
+  "ubicacion_base": "21.1420307,-86.830821",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b671"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. XPUJIL",
+  "ubicacion_base": "21.1435848,-86.8284646",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b672"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - HOTEL IBIS",
+  "ubicacion_base": "21.1438723,-86.825835",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b673"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - PLAZA LAS AMERICAS",
+  "ubicacion_base": "21.1481554,-86.824352",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b674"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - HOTEL LA QUINTA",
+  "ubicacion_base": "21.1523782,-86.8247504",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b675"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. COBA ",
+  "ubicacion_base": "21.15551,-86.8250401",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b676"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - MERCADO KI HUIC",
+  "ubicacion_base": "21.1591748,-86.8254516",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b677"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - PALACIO MUNICIPAL",
+  "ubicacion_base": "21.1620213,-86.8256457",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b678"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. TULUM ",
+  "ubicacion_base": "21.1666294,-86.8259872",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b679"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - PARQUE DEL DIF ",
+  "ubicacion_base": "21.1698862,-86.8260259",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b67a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - EL CRUCERO ",
+  "ubicacion_base": "21.175654,-86.8274768",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b67b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 3",
+  "ubicacion_base": "21.1776604,-86.8274285",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b67c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 17",
+  "ubicacion_base": "21.1789759,-86.8247624",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b67d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 27 N",
+  "ubicacion_base": "21.1801114,-86.8224761",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b67e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - AV. BONAMPAK",
+  "ubicacion_base": "21.1814069,-86.8199388",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b67f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 36 OTE",
+  "ubicacion_base": "21.1841821,-86.8192842",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b680"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 46",
+  "ubicacion_base": "21.1869381,-86.8190804",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b681"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 53 N",
+  "ubicacion_base": "21.1885326,-86.8195906",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b682"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 47 N",
+  "ubicacion_base": "21.1874284,-86.8217442",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b683"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 31 N",
+  "ubicacion_base": "21.1905993,-86.8270785",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b684"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 45",
+  "ubicacion_base": "21.1907093,-86.8241388",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b685"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 53 N",
+  "ubicacion_base": "21.1908093,-86.8211561",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b686"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 47 N",
+  "ubicacion_base": "21.1874284,-86.8217442",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c0dedb4728c143690b687"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE 45-A ",
+  "ubicacion_base": "21.1969678,-86.8232017",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c20dcb4728c143690b688"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - CALLE CHABACANO",
+  "ubicacion_base": "21.1970828,-86.8238186",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c2236b4728c143690b689"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 - UNIVERSIDAD DEL CARIBE",
+  "ubicacion_base": "21.1995404,-86.823281",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644c25ebb4728c143690b690"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - RODIN",
+  "ubicacion_base": "21.1203387,-86.8739752",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c266db4728c143690b691"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV. ESPAÑA",
+  "ubicacion_base": "2",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b692"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - COLMENAR",
+  "ubicacion_base": "21.1190364,-86.8646493",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b693"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - RETIRO",
+  "ubicacion_base": "21.1172796,-86.8637436",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b694"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - LAS PALMAS",
+  "ubicacion_base": "21.1192347,-86.8664298",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b695"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - SANTIAGO DE COMPOSTELA",
+  "ubicacion_base": "21.1194413,-86.8700119",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b696"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - RIO NIAGARA",
+  "ubicacion_base": "21.1177093,-86.870508",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b697"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - TENERIFE",
+  "ubicacion_base": "21.121848,-86.8715264",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b698"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - WAL MART",
+  "ubicacion_base": "21.1261299,-86.875467",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b699"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE RIO",
+  "ubicacion_base": "21.1281515,-86.8765667",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b69a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE FONATUR",
+  "ubicacion_base": "21.130256,-86.8763341",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b69b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV LAS TORRES",
+  "ubicacion_base": "21.1327416,-86.8764302",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b69c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 46",
+  "ubicacion_base": "21.1353145,-86.8766123",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b69d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 36",
+  "ubicacion_base": "21.1380047,-86.8768089",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b69e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV. NICHUPTE",
+  "ubicacion_base": "21.1400218,-86.8769521",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b69f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 129",
+  "ubicacion_base": "21.1400936,-86.8738007",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a0"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV. CHAC MOOL",
+  "ubicacion_base": "21.1400135,-86.8705231",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a1"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE CASCADA",
+  "ubicacion_base": "21.1378241,-86.8688224",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a2"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CAHC MOOL Y CALLE 50",
+  "ubicacion_base": "21.1355307,-86.8669492",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a3"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 119",
+  "ubicacion_base": "21.1358268,-86.8657656",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a4"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 113",
+  "ubicacion_base": "21.1351913,-86.8632282",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a5"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV. MEXICO",
+  "ubicacion_base": "21.1352589,-86.8609426",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a6"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 107",
+  "ubicacion_base": "21.1350994,-86.8596948",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a7"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 103",
+  "ubicacion_base": "21.1344387,-86.8572795",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a8"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV. KINIC",
+  "ubicacion_base": "21.1344534,-86.8556607",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6a9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 46",
+  "ubicacion_base": "21.1358694,-86.8557358",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6aa"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CLINICA IMSS 510",
+  "ubicacion_base": "21.1373782,-86.8544167",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6ab"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE EK BALAM",
+  "ubicacion_base": "21.1376984,-86.8509405",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6ac"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - LA GRAN PLAZA",
+  "ubicacion_base": "21.1401902,-86.850801",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6ad"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV. LA LUNA",
+  "ubicacion_base": "21.1363975,-86.8525284",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6ae"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - SORIANA",
+  "ubicacion_base": "21.1418561,-86.8474823",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6af"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE TEOPISCA",
+  "ubicacion_base": "21.1442277,-86.8454975",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b0"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - DE LAS PALMAS",
+  "ubicacion_base": "21.146359,-86.8437273",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b1"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE OCASO",
+  "ubicacion_base": "21.1488625,-86.8417219",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b2"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV. KABAH",
+  "ubicacion_base": "21.1501818,-86.8406163",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b3"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - ESTADIO",
+  "ubicacion_base": "21.1516139,-86.8409489",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b4"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - LA COSTA",
+  "ubicacion_base": "21.1537652,-86.8380735",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b5"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - PLAZA HOLLYWOOD",
+  "ubicacion_base": "21.1552561,-86.8349085",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b6"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE YUM KAX",
+  "ubicacion_base": "21.1574473,-86.8366895",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b7"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - GLORIETA",
+  "ubicacion_base": "21.1589031,-86.8383847",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b8"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - RICARDO FLORES MAGON",
+  "ubicacion_base": "21.1602789,-86.8374459",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3207b4728c143690b6b9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - SAC-XIB",
+  "ubicacion_base": "21.160454,-86.8346725",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6ba"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - MERCADO 28",
+  "ubicacion_base": "21.1615796,-86.8330471",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6bb"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - HOSPITAL VICTORIA",
+  "ubicacion_base": "21.1622857,-86.8300557",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6bc"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE ROSAS",
+  "ubicacion_base": "21.1639716,-86.829412",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6bd"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - TERMINAL ADO",
+  "ubicacion_base": "21.1642967,-86.8276095",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6be"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - AV TULUM",
+  "ubicacion_base": "21.1664616,-86.8260176",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6bf"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - PARQUE DEL DIF",
+  "ubicacion_base": "21.1699053,-86.8260445",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c0"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 3",
+  "ubicacion_base": "21.1745209,-86.825806",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c1"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - REHOYADA",
+  "ubicacion_base": "21.175462,-86.8239397",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c2"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - MERCADITO",
+  "ubicacion_base": "21.1786739,-86.8173783",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c3"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE 22",
+  "ubicacion_base": "21.1798344,-86.8162303",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c4"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - PLAN DE AYALA",
+  "ubicacion_base": "21.182468,-86.8177109",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c5"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - PRAXEDIS",
+  "ubicacion_base": "21.1839403,-86.8165569",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c6"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - CALLE LIBRADO",
+  "ubicacion_base": "21.1814968,-86.8151836",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c7"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - ULTRAMAR",
+  "ubicacion_base": "21.1838291,-86.8083593",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c8"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - API",
+  "ubicacion_base": "21.1883661,-86.8074131",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6c9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - PLAYA DEL NIÑO",
+  "ubicacion_base": "21.1938475,-86.8060099",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3b77b4728c143690b6ca"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R6 - BASE RUTA 6",
+  "ubicacion_base": "21.1880741,-86.807571",
+  "zona": "SUR",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5eb"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - RODIN",
+  "ubicacion_base": "21.1212493,-86.8789494",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5ec"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - RODIN",
+  "ubicacion_base": "21.1244118,-86.8776716",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5ed"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - SORIANA",
+  "ubicacion_base": "21.1159949,-86.8815941",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5ee"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - WAL MART",
+  "ubicacion_base": "21.1258321,-86.8771453",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5ef"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - PORTO BONELLI",
+  "ubicacion_base": "21.1273783,-86.8767591",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f0"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE FONATUR",
+  "ubicacion_base": "21.1301454,-86.8763567",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f1"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. LAS TORRES",
+  "ubicacion_base": "21.1325272,-86.8763889",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f2"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - RIO NIAGARA",
+  "ubicacion_base": "21.1327003,-86.8704879",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f3"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE 123",
+  "ubicacion_base": "21.1326602,-86.8647802",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f4"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - SATURNO ",
+  "ubicacion_base": "21.1327803,-86.8594157",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f5"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. LA LUNA",
+  "ubicacion_base": "21.1329004,-86.8546521",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f6"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE CHEMULLI",
+  "ubicacion_base": "21.1330605,-86.8494594",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f7"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - UNIVERSIDAD HUMANITAS",
+  "ubicacion_base": "21.1332207,-86.8456399",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f8"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - PORTO ALEGRO",
+  "ubicacion_base": "21.1332385,-86.8423827",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5f9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - GAVIOTA",
+  "ubicacion_base": "21.1333186,-86.8385203",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5fa"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. KABAH",
+  "ubicacion_base": "21.1334387,-86.8344433",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5fb"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. HUAYACAN",
+  "ubicacion_base": "21.1323179,-86.8326409",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5fc"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - TECNOLOGICO",
+  "ubicacion_base": "21.1379619,-86.8323834",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5fd"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - HOTEL IBIS",
+  "ubicacion_base": "21.1439013,-86.8258914",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5fe"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. NIZUC",
+  "ubicacion_base": "21.1412591,-86.8322146",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a5ff"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. CONTOY",
+  "ubicacion_base": "21.1422197,-86.8306053",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a600"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - PLAZA LAS AMERICAS",
+  "ubicacion_base": "21.1482078,-86.8243327",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a601"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - HOTEL LA QUINTA",
+  "ubicacion_base": "21.1523147,-86.8247212",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a602"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. COBA",
+  "ubicacion_base": "21.1550585,-86.824967",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a603"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - MERCADO KI HUIC",
+  "ubicacion_base": "21.1590769,-86.8254385",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a604"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. UXMAL",
+  "ubicacion_base": "21.1622549,-86.8256182",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a605"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - TERMINAL ADO",
+  "ubicacion_base": "21.1652338,-86.8259386",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a606"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - PARQUE DEL DIF",
+  "ubicacion_base": "21.1684222,-86.8261287",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a607"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CRUCERO\n",
+  "ubicacion_base": "21.1761282,-86.8277226",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a608"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - DIAGONAL TULUM",
+  "ubicacion_base": "21.1781308,-86.8290208",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a609"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. MIGUEL HIDALGO",
+  "ubicacion_base": "21.1798993,-86.8300084",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a60a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE 46",
+  "ubicacion_base": "21.1808167,-86.8305448",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a60b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - ESTADIO 86",
+  "ubicacion_base": "21.1823815,-86.8313946",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a60c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. LEONA VICARIO\n",
+  "ubicacion_base": "21.1852826,-86.8330147",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a60d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. NIÑOS HEROES",
+  "ubicacion_base": "21.1875235,-86.8342055",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a60e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - RANCHO VIEJO",
+  "ubicacion_base": "21.1866831,-86.8364372",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a60f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - AV. 20 DE NOVIEMBRE",
+  "ubicacion_base": "21.189044,-86.8371667",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a610"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE 92 A",
+  "ubicacion_base": "21.1916249,-86.8377976",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a611"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE 114",
+  "ubicacion_base": "21.1945258,-86.8384843",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a612"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE 124 A",
+  "ubicacion_base": "21.1973434,-86.839187",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a613"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - CALLE 132 A",
+  "ubicacion_base": "21.199682,-86.8397835",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a614"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - ARCO NORTE",
+  "ubicacion_base": "21.2031068,-86.8404714",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a615"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - BEATRIZ GLZ",
+  "ubicacion_base": "21.2054136,-86.8411039",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a616"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - PRINCIPAL NORTE",
+  "ubicacion_base": "21.2081844,-86.8425109",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a617"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - BASE RUTA 26",
+  "ubicacion_base": "21.2096873,-86.842717",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644c3e1c7a53da360e87a618"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R26 - BASE RANCHO VIEJO",
+  "ubicacion_base": "21.209957,-86.8427703",
+  "zona": "SUR",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "64512ca8e64bc88082120cc5"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - PLAZA LAS AMERICAS IGLESIA",
+  "ubicacion_base": "21.1477948,-86.8249176",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cc6"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - HOTEL IBIS",
+  "ubicacion_base": "21.1441024,-86.825856",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cc7"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - PABELLON CARIBE",
+  "ubicacion_base": "21.1434391,-86.8292685",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cc8"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. NIZUC\n",
+  "ubicacion_base": "21.1420151,-86.8311531",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cc9"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. KABAH",
+  "ubicacion_base": "21.1414296,-86.8331132",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cca"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - PARQUE KABAH",
+  "ubicacion_base": "21.1413389,-86.8373993",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ccb"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE KAAN LOL",
+  "ubicacion_base": "21.1412288,-86.8418303",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ccc"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. KOHUNLICH",
+  "ubicacion_base": "21.1411487,-86.8452743",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ccd"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. LA LUNA",
+  "ubicacion_base": "21.1410887,-86.8473128",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cce"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE KAM-LOL",
+  "ubicacion_base": "21.1410407,-86.8501858",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd0"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - LA GRAN PLAZA",
+  "ubicacion_base": "21.1410003,-86.8514784",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd1"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE TEPICH",
+  "ubicacion_base": "21.1409307,-86.8547172",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd2"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ",
+  "ubicacion_base": "2",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd3"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. COMALCALCO",
+  "ubicacion_base": "21.1399948,-86.8577201",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd4"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. MEXICO",
+  "ubicacion_base": "21.1400648,-86.8608637",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd5"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE 111 A",
+  "ubicacion_base": "21.1400948,-86.8633742",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd6"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. INDUSTRIAL",
+  "ubicacion_base": "21.1401229,-86.8657024",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd7"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. CHAC MOOL",
+  "ubicacion_base": "21.1401729,-86.8694038",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd8"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE 127",
+  "ubicacion_base": "21.1401968,-86.8725429",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cd9"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE 135",
+  "ubicacion_base": "21.1402268,-86.8767379",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cda"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - DE LOS MAYAS",
+  "ubicacion_base": "21.1402667,-86.8801068",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cdb"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE 147",
+  "ubicacion_base": "21.1402859,-86.8825245",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cdc"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - BATALLON",
+  "ubicacion_base": "21.1403249,-86.8859173",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cdd"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE ITZAES",
+  "ubicacion_base": "21.1403549,-86.8881972",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cde"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ESC. TECNICA 25",
+  "ubicacion_base": "21.1403649,-86.8905682",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cdf"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - LOPEZ PORTILLO SITIO FORANEO",
+  "ubicacion_base": "21.1403979,-86.8936107",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce0"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - LOPEZ PORTILLO ( PEPSI )",
+  "ubicacion_base": "21.1397514,-86.896271",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce1"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - LINDAVISTA",
+  "ubicacion_base": "21.1381961,-86.8992952",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce2"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - NISSAN LOPEZ PORTILLO\n",
+  "ubicacion_base": "21.1381761,-86.9014088",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce3"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE K\"MAS",
+  "ubicacion_base": "21.1408606,-86.9018728",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce4"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. FCO. I MADERO",
+  "ubicacion_base": "21.1439653,-86.9024522",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce5"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CHEDRAUI",
+  "ubicacion_base": "21.1455163,-86.9041473",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce6"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. LAK IN",
+  "ubicacion_base": "21.1477077,-86.9052202",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce7"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. LEONA VICARIO",
+  "ubicacion_base": "21.1497845,-86.9061685",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce8"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. NIÑOS HEROES",
+  "ubicacion_base": "21.1521798,-86.9088964",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ce9"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - BODEGA AURRERA",
+  "ubicacion_base": "21.1528726,-86.9099693",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cea"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. 20 DE NOVIEMBRE",
+  "ubicacion_base": "21.1549511,-86.9113021",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ceb"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - LAS PALMAS",
+  "ubicacion_base": "21.1562124,-86.9119078",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cec"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE PALMA ALEXANDRAE",
+  "ubicacion_base": "21.1580835,-86.913163",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120ced"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE PALMA DEL VINO",
+  "ubicacion_base": "21.1600083,-86.9143158",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cee"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - LOS PICOS",
+  "ubicacion_base": "21.1614816,-86.916239",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cef"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ARCO NORTE",
+  "ubicacion_base": "21.1612014,-86.9190035",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf0"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - COLEGIO DE BACHILLERES",
+  "ubicacion_base": "21.161182,-86.9222216",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf1"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. TULIPAN",
+  "ubicacion_base": "21.161187,-86.9247107",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf2"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. 3",
+  "ubicacion_base": "21.1649821,-86.9248931",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf3"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE KANLOL",
+  "ubicacion_base": "21.1651824,-86.9223344",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf4"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. ARCO NORTE",
+  "ubicacion_base": "21.1651824,-86.9197181",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf5"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE VICARIA",
+  "ubicacion_base": "21.1652425,-86.9168993",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf6"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. LAK IN",
+  "ubicacion_base": "21.1657417,-86.9147129",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf7"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - FRACC. NUEVO",
+  "ubicacion_base": "21.1688288,-86.9143743",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf8"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - FRACC. ARCOS PARAISO\n",
+  "ubicacion_base": "21.172633,-86.9143046",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cf9"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CHEDRAUI ARCO NORTE",
+  "ubicacion_base": "21.1757994,-86.9142831",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cfa"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA LAK IN 5",
+  "ubicacion_base": "21.1779876,-86.9142598",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64512d9ce64bc88082120cfb"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA LAK IN 6",
+  "ubicacion_base": "21.1801941,-86.9142749",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120cfe"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA LAK IN 7",
+  "ubicacion_base": "21.1832407,-86.9143198",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120cff"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. ISLA SAONA",
+  "ubicacion_base": "21.1810937,-86.9131881",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d00"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA LAK IN 8",
+  "ubicacion_base": "21.1780047,-86.9131895",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d01"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - CALLE ISLA DE PASCUA",
+  "ubicacion_base": "21.1760476,-86.912032",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d02"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA MUJERES",
+  "ubicacion_base": "21.1753392,-86.9117644",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d03"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA MARGARITA",
+  "ubicacion_base": "21.1735772,-86.9107787",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d04"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. REPUBLICA DOMINICANA",
+  "ubicacion_base": "21.1715758,-86.9128538",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d05"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. OBSIDIANA",
+  "ubicacion_base": "21.1695549,-86.9113142",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d06"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA ZANZIBAR",
+  "ubicacion_base": "21.1704912,-86.9095075",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d07"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - AV. ISLA HAITI",
+  "ubicacion_base": "21.1715807,-86.9074727",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d08"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA HAWAI",
+  "ubicacion_base": "21.1733165,-86.9040417",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d09"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 - ISLA CAMORES",
+  "ubicacion_base": "21.1755408,-86.9051064",
+  "zona": "SUR",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "64516f8de64bc88082120d0a"
+  },
+  "fecha": "02/05/2023",
+  "nombre_base": "BASE R44 ",
+  "ubicacion_base": "21.1769787,-86.9059432",
+  "zona": "SUR",
+  "numero_ruta": 44
+}]

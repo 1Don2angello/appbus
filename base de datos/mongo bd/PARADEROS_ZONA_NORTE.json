@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "64493fa08e78036088b795dc"
+  },
+  "fecha": "26/04/2023",
+  "nombre_terminal": "PARADERO 'A'- PLAZA LAS AMERICAS",
+  "ubicacion_termial": "21.1445141,-86.8236908",
+  "zona": "NORTE"
+},{
+  "_id": {
+    "$oid": "644947318e78036088b795f0"
+  },
+  "fecha": "26/04/2023",
+  "nombre_terminal": "PARADERO 'B'- PLAZA LAS AMERICAS",
+  "ubicacion_termial": "21.1461889,-86.8241465",
+  "zona": "NORTE"
+},{
+  "_id": {
+    "$oid": "644947318e78036088b795f1"
+  },
+  "fecha": "26/04/2023",
+  "nombre_terminal": "PARADERO 'C'- PLAZA LAS AMERICAS",
+  "ubicacion_termial": "21.1471383,-86.824415",
+  "zona": "NORTE"
+},{
+  "_id": {
+    "$oid": "644949ab8e78036088b795f3"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R01 MIGUEL HIDALGO (R05)",
+  "ubicacion_base": "21.143784,-86.917684",
+  "zona": "NORTE",
+  "numero_ruta": 5
+},{
+  "_id": {
+    "$oid": "644949e58e78036088b795f4"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R17 LOENA VICARIO AM",
+  "ubicacion_base": "21.165349,-86.9186089",
+  "zona": "NORTE",
+  "numero_ruta": 17
+},{
+  "_id": {
+    "$oid": "64494ba38e78036088b795f9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R17 LOENA VICARIO PM",
+  "ubicacion_base": "21.1752345,-86.9094006",
+  "zona": "NORTE",
+  "numero_ruta": 17
+}]

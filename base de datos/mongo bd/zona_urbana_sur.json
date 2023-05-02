@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "644848584f8811a64346e420"
+  },
+  "numero_ruta": 11,
+  "nombre_ruta": "CORALES - 510",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "C. 47 Supermanzana 77, Los Corales, 77528 Cancún, Q.R.",
+  "nombre_base": "BASE R11 CORALES",
+  "ubicacion_base": "21.199115, -86.823028",
+  "terminal": "Av. México (Oaxactun) 477, Cecilio Chi, 77534 Cancún, Q.R.",
+  "ubicacion_terminal": " ",
+  "zona": "URBANA SUR",
+  "nombre_terminal": "510 BASE"
+},{
+  "_id": {
+    "$oid": "64484a614f8811a64346e421"
+  },
+  "numero_ruta": 6,
+  "nombre_ruta": "SANTA FE - PTO JUAREZ",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Av La Rioja, Gran Santa Fe II, 77535 Cancún, Q.R.",
+  "nombre_base": "BASE R06 SANTA FE",
+  "ubicacion_base": "21.125328, -86.873497",
+  "terminal": "López Portillo 84, 77525 Cancún, Q.R.",
+  "ubicacion_terminal": "21.194739, -86.805791",
+  "zona": "URBANA SUR",
+  "nombre_terminal": "TERMINO R-06 PTO JUAREZ"
+},{
+  "_id": {
+    "$oid": "64484a794f8811a64346e422"
+  },
+  "numero_ruta": 26,
+  "nombre_ruta": " RANCHO VIEJO",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": "Frutas Y Verduras Mi Dulce Ruby, Av. Rancho Viejo, 77553 Cancún, Q.R.",
+  "nombre_base": "BASE R26 RANCHO VIEJO",
+  "ubicacion_base": "21.209745, -86.842842",
+  "terminal": "JARDINES-RANCHO VIEJO",
+  "ubicacion_terminal": "21.116021, -86.881550",
+  "zona": "URBANA SUR",
+  "nombre_terminal": "Estetica Brillance, Santa María av. 135, 77535 Cancún, Q.R."
+},{
+  "_id": {
+    "$oid": "64484ddf4f8811a64346e427"
+  },
+  "numero_ruta": 44,
+  "nombre_ruta": "NICHUPTE- PLAZA LAS AMERICAS",
+  "fecha": "25/04/2023",
+  "horario": "24 HRS",
+  "precio": 10,
+  "base": " Cancún Metropolitan Area, Quintana Roo",
+  "nombre_base": "BASE R44 NICHUPTE ",
+  "ubicacion_base": "21.178664, -86.906849",
+  "terminal": "Av. Tulum Sur Supermanzana 7, 77503 Cancún, Q.R.",
+  "ubicacion_terminal": "21.174531, -86.909700",
+  "zona": "URBANA SUR",
+  "nombre_terminal": "PLAZA LAS AMERICAS"
+}]

@@ -1,0 +1,1781 @@
+[{
+  "_id": {
+    "$oid": "64494bcb8e78036088b795fc"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 UNIVERSIDAD DEL CARIBE",
+  "ubicacion_base": "21.1995402,-86.8232375",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644959ed8e78036088b795fd"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE YUCATAN",
+  "ubicacion_base": "21.198971,-86.8237116",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64495a3c8e78036088b795fe"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE CHABACANO",
+  "ubicacion_base": "21.1970363,-86.8238311",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64495a6e8e78036088b795ff"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 45 A",
+  "ubicacion_base": "21.1970003,-86.8232209",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644979538e78036088b79600"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 SUPER WILLYS CORALES",
+  "ubicacion_base": "21.1946316,-86.8234221",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644979838e78036088b79601"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 55",
+  "ubicacion_base": "21.1943525,-86.8207232",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64497c028e78036088b79602"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. BONANPAK",
+  "ubicacion_base": "21.1944242,-86.818855",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64497c3f8e78036088b79603"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV.20 DE NOVIEMBRE",
+  "ubicacion_base": "21.1911558,-86.8189921",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64497c918e78036088b79604"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 74",
+  "ubicacion_base": "21.190904,-86.8224373",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64497e8c8e78036088b79605"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 DIAGONAL TULUM",
+  "ubicacion_base": "21.1907163,-86.8269314",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64497f118e78036088b79606"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 68",
+  "ubicacion_base": "21.1887436,-86.8276427",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64497f7b8e78036088b79607"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV.LEONA VICARIO",
+  "ubicacion_base": "21.1849414,-86.8280075",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "6449800e8e78036088b79608"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 31 N",
+  "ubicacion_base": "21.1856044,-86.8249453",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644982148e78036088b79609"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 47 N",
+  "ubicacion_base": "21.187195,-86.821909",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "6449824f8e78036088b7960a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. BONAMPAK Y PTO JUAREZ",
+  "ubicacion_base": "21.1884754,-86.8193341",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644982fe8e78036088b7960b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 46",
+  "ubicacion_base": "21.1870499,-86.8193073",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644983798e78036088b7960c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 36 OTE.",
+  "ubicacion_base": "21.1843789,-86.8195004",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644986898e78036088b7960d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 RUTA 4",
+  "ubicacion_base": "21.1817179,-86.819656",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644986e88e78036088b7960e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 33 N.",
+  "ubicacion_base": "21.1805248,-86.8218354",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64498b458e78036088b7960f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 19",
+  "ubicacion_base": "21.1793777,-86.8241218",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64498cbf8e78036088b79612"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 13 N",
+  "ubicacion_base": "21.1785237,-86.8254403",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64498d048e78036088b79614"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. LOPEZ PORTILLO",
+  "ubicacion_base": "21.17581,-86.8240241",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64498dc38e78036088b79615"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 3",
+  "ubicacion_base": "21.1747446,-86.8257085",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64498e258e78036088b79616"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. CHICHEN ITZA",
+  "ubicacion_base": "21.1705827,-86.8264691",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64498e508e78036088b79617"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 MERCADO 23",
+  "ubicacion_base": "21.1688506,-86.8262823",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64498e828e78036088b79618"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 TERMINAL ADO",
+  "ubicacion_base": "21.1653655,-86.8260581",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "6449905e8e78036088b79619"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 PALACIO MUNICIPAL",
+  "ubicacion_base": "21.1620135,-86.825773",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "6449917a8e78036088b7961a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CHEDRAUI COBA",
+  "ubicacion_base": "21.1586899,-86.8255691",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644992108e78036088b7961b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE JALEB",
+  "ubicacion_base": "21.1554459,-86.8253787",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644992668e78036088b7961c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE LIEBRE",
+  "ubicacion_base": "21.1522987,-86.8252434",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644992c18e78036088b7961d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 PLAZA LAS AMERICAS (IGLESIA)",
+  "ubicacion_base": "21.1479668,-86.8249188",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644993558e78036088b7961e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 PLAZA LAS AMERICAS 2",
+  "ubicacion_base": "21.1453551,-86.8247149",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "6449939b8e78036088b7961f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 HOTEL IBIS",
+  "ubicacion_base": "21.1440615,-86.8258403",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644993e68e78036088b79620"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CTO. COPAN",
+  "ubicacion_base": "21.143917,-86.8283451",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644994208e78036088b79621"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. CONTOY",
+  "ubicacion_base": "21.1425459,-86.8303367",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "6449945b8e78036088b79622"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. KABAH",
+  "ubicacion_base": "21.1413631,-86.8328409",
+  "zona": "SUR",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644995748e78036088b79623"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 TECNOLOGICO DE CANCUN",
+  "ubicacion_base": "21.1387913,-86.8334202",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644995bf8e78036088b79624"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. DE LAS TORRES",
+  "ubicacion_base": "21.1345484,-86.832755",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644996438e78036088b79625"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 PORTO ANGELO",
+  "ubicacion_base": "21.134048,-86.8360595",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "6449967a8e78036088b79626"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 PORTO ALEGRE",
+  "ubicacion_base": "21.1339479,-86.8386773",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644996d98e78036088b79627"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 PARROQUIA",
+  "ubicacion_base": "21.1338879,-86.8422822",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644997008e78036088b79628"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 ARRECIFE",
+  "ubicacion_base": "21.1347885,-86.8437199",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644997638e78036088b79629"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE KANTUNILKIN",
+  "ubicacion_base": "21.1359754,-86.844027",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "644999ee8e78036088b7962a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. PEHALTUN",
+  "ubicacion_base": "21.1359354,-86.8466703",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499a628e78036088b7962b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE CHEMUYIL",
+  "ubicacion_base": "21.1358705,-86.8492071",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499a9d8e78036088b7962c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. POLITECNICO",
+  "ubicacion_base": "21.1358253,-86.851505",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499ae68e78036088b7962d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE OPALO",
+  "ubicacion_base": "21.1350726,-86.8534745",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499b3c8e78036088b7962e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. KINIC",
+  "ubicacion_base": "21.1335915,-86.8554593",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499b6b8e78036088b7962f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 CALLE 103",
+  "ubicacion_base": "21.1345129,-86.857123",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499ca08e78036088b79630"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE R11 AV. MEXICO",
+  "ubicacion_base": "21.1353337,-86.8604704",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499d528e78036088b79631"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 11 ",
+  "ubicacion_base": "21.1343543,-86.8608606",
+  "numero_ruta": 11
+},{
+  "_id": {
+    "$oid": "64499eed8e78036088b79632"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 ULTRAMAR",
+  "ubicacion_base": "21.1838714,-86.8084459",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a81b8b3818f41efc93116"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CALLE 45",
+  "ubicacion_base": "21.1826572,-86.8096775",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93117"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 - 2 ENTRADA LOMBARDO",
+  "ubicacion_base": "21.1802763,-86.8143874",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93118"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CALLE 06",
+  "ubicacion_base": "21.1826449,-86.8157918",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93119"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 - FRANCISCO VILLA",
+  "ubicacion_base": "21.184178,-86.8166539",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9311a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 FRANCISCO VILLA",
+  "ubicacion_base": "21.184178,-86.8166539",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9311b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 PLAN DE AYALA",
+  "ubicacion_base": "21.1825195,-86.8178042",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9311c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 LOPEZ PORTILLO",
+  "ubicacion_base": "21.1795578,-86.8161234",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9311d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CALLE 55",
+  "ubicacion_base": "21.1788064,-86.8174434",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9311e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 REHOYADA",
+  "ubicacion_base": "21.1756891,-86.8238179",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9311f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CALLE 3",
+  "ubicacion_base": "21.1747312,-86.8257173",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93120"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 AV. CHICHEN ITZA",
+  "ubicacion_base": "21.1705676,-86.8265455",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93121"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CEDRO (MERCADO 23)",
+  "ubicacion_base": "21.1682,-86.8262621",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93122"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 TERMINAL ADO",
+  "ubicacion_base": "21.1649573,-86.82601",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93123"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 PALACIO MUNICIPAL",
+  "ubicacion_base": "21.1617217,-86.8257233",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93124"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CRISANTEMOS",
+  "ubicacion_base": "21.158515,-86.8255677",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93125"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CRISANTEMOS",
+  "ubicacion_base": "21.158515,-86.8255677",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93126"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 CHEDRAUI COBA",
+  "ubicacion_base": "21.1575435,-86.8263539",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93127"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 06 ORQUIDEAS",
+  "ubicacion_base": "21.1594358,-86.829028",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93128"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 HOTEL LA RAMADA",
+  "ubicacion_base": "21.161986,-86.8292768",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93129"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 PUNTA YOQUEN",
+  "ubicacion_base": "21.1622887,-86.8314279",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9312a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 MERCADO 28",
+  "ubicacion_base": "21.1629551,-86.8337824",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9312b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE ERIZO",
+  "ubicacion_base": "21.1621072,-86.8354239",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9312c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE CORAL",
+  "ubicacion_base": "21.160716,-86.8369435",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9312d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. PALENQUE",
+  "ubicacion_base": "21.1602071,-86.8382051",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9312e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 3 PALOS",
+  "ubicacion_base": "21.1586354,-86.8383329",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9312f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV.COBA",
+  "ubicacion_base": "21.1567593,-86.8362271",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93130"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 LA COSTA",
+  "ubicacion_base": "21.155062,-86.8387767",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93131"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. KABAH",
+  "ubicacion_base": "21.1540297,-86.841924",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93132"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 ESTADIO",
+  "ubicacion_base": "21.1516539,-86.8412718",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93133"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 ESTADIO",
+  "ubicacion_base": "21.1516539,-86.8412718",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93134"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 LA LUNA",
+  "ubicacion_base": "21.1503201,-86.8407109",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93135"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. DEL SOL",
+  "ubicacion_base": "21.1479893,-86.8427439",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93136"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 RESIDENCIAL CALIFORNIA",
+  "ubicacion_base": "21.1455924,-86.8446917",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93137"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. KOHUNLICH",
+  "ubicacion_base": "21.1432759,-86.8466261",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93138"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. NICHUPTE",
+  "ubicacion_base": "21.1412562,-86.8482909",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc93139"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 LA GRAN PLAZA",
+  "ubicacion_base": "21.1403098,-86.8510262",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9bb6b3818f41efc9313a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE HOLBOX",
+  "ubicacion_base": "21.1385319,-86.8505623",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9d3db3818f41efc9313b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. POLITECNICO",
+  "ubicacion_base": "21.1365349,-86.8522335",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9d3db3818f41efc9313c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE TEPICH",
+  "ubicacion_base": "21.1375156,-86.8545938",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644a9d3db3818f41efc9313d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CLINICA IMSS 510",
+  "ubicacion_base": "21.1359061,-86.8557616",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc9313e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CLINICA IMSS 510",
+  "ubicacion_base": "21.1359061,-86.8557616",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc9313f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 103",
+  "ubicacion_base": "21.134516,-86.8571032",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93140"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 103",
+  "ubicacion_base": "21.134516,-86.8571032",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93141"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 107",
+  "ubicacion_base": "21.1351464,-86.8595297",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93142"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 111",
+  "ubicacion_base": "21.1353016,-86.8619169",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93143"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 119",
+  "ubicacion_base": "21.135876,-86.8656557",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93144"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV.POLITECNICO",
+  "ubicacion_base": "21.1369618,-86.8675909",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93145"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 SORIANA",
+  "ubicacion_base": "21.1389118,-86.8689981",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93146"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 121",
+  "ubicacion_base": "21.1401417,-86.8701494",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93147"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 127",
+  "ubicacion_base": "21.1401968,-86.8725795",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93148"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 VALLE 133",
+  "ubicacion_base": "21.1402238,-86.8758272",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644aaa2cb3818f41efc93149"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 135",
+  "ubicacion_base": "21.139846,-86.8771258",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add51"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 CALLE 135",
+  "ubicacion_base": "21.139846,-86.8771258",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add52"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 DE LOS QUETZALES",
+  "ubicacion_base": "21.1372758,-86.8769374",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add53"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 MIGUEL BORGE",
+  "ubicacion_base": "21.1344237,-86.8767229",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add54"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. LAS TORRES",
+  "ubicacion_base": "21.1329207,-86.8766039",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add55"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 AV. FONATUR",
+  "ubicacion_base": "21.1329207,-86.8766039",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add56"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 GLORIETA",
+  "ubicacion_base": "21.1275431,-86.8768106",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add57"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 WAL MART",
+  "ubicacion_base": "21.1260327,-86.8756723",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644abc05124b4fd7573add58"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 6 ",
+  "ubicacion_base": "21.1253321,-86.8734407",
+  "numero_ruta": 6
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add59"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - GASOLINERA ",
+  "ubicacion_base": "21.2088317,-86.8426912",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add5a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - HORACIO LARA GLZ",
+  "ubicacion_base": "21.2071137,-86.8426216",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add5b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - BEATRIZ GLZ. JIMENEZ",
+  "ubicacion_base": "21.2054109,-86.8412279",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add5c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - GASOLINERA",
+  "ubicacion_base": "21.2032195,-86.8406621",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add5d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - IGLESIA DE PIEDRA",
+  "ubicacion_base": "21.2007339,-86.8401365",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add5e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 118",
+  "ubicacion_base": "21.1973962,-86.8393104",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add5f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 114",
+  "ubicacion_base": "21.1943677,-86.8385779",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add60"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 92-A",
+  "ubicacion_base": "21.1914534,-86.8378912",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add61"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. 20 DE NOVIEMBRE",
+  "ubicacion_base": "21.1888725,-86.8372153",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add62"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. NIÑOS HEROES",
+  "ubicacion_base": "21.1864125,-86.8365383",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add63"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. PROLONGACION TULUM",
+  "ubicacion_base": "21.1873887,-86.8344103",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add64"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. LEONA VICARIO",
+  "ubicacion_base": "21.185398,-86.8332945",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add65"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALE 56 PTE.",
+  "ubicacion_base": "21.1830271,-86.8318569",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add66"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 46",
+  "ubicacion_base": "21.1807917,-86.8306636",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add67"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 32 PTE.",
+  "ubicacion_base": "21.1785608,-86.8293976",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad363124b4fd7573add68"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - RUTA 4",
+  "ubicacion_base": "21.1771086,-86.8284939",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ad6dd124b4fd7573add69"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 9",
+  "ubicacion_base": "21.178129,-86.8264125",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add6a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 13 N",
+  "ubicacion_base": "21.1786535,-86.8254295",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add6b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - REHOYADA",
+  "ubicacion_base": "21.1756549,-86.8239169",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add6c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 3 Y LOPEZ PORTILLO",
+  "ubicacion_base": "21.1747482,-86.8257644",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add6d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 2",
+  "ubicacion_base": "21.1708581,-86.8265083",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add6e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - TERMINAL ADO",
+  "ubicacion_base": "21.1648479,-86.8260868",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add6f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE CEDRO",
+  "ubicacion_base": "21.1682392,-86.8262398",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add70"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - PALACIO MUNICIPAL",
+  "ubicacion_base": "21.1610922,-86.8257381",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add71"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CRISANTEMOS",
+  "ubicacion_base": "21.1584819,-86.8256147",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add72"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE TEJON",
+  "ubicacion_base": "21.1520832,-86.8251748",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add73"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - PLAZA DE LAS AMERICAS",
+  "ubicacion_base": "21.1473981,-86.8248171",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add74"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - HOTEL IBIS",
+  "ubicacion_base": "21.144179,-86.8260814",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add75"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. KABAH",
+  "ubicacion_base": "21.144179,-86.8260814",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add76"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - TECNOLOGICO",
+  "ubicacion_base": "21.1372463,-86.8329977",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add77"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. LAS TORRES",
+  "ubicacion_base": "21.1341541,-86.8330942",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add78"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - PORTO ALEGRO",
+  "ubicacion_base": "21.1339728,-86.8363046",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ade3d124b4fd7573add79"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - PUERTO ALEGRE",
+  "ubicacion_base": "21.1339628,-86.8394758",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add7a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - PARROQUIA",
+  "ubicacion_base": "21.1338127,-86.8437826",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add7b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. PEHALTUN",
+  "ubicacion_base": "21.1338032,-86.8466907",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add7c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. LA LUNA",
+  "ubicacion_base": "21.1336431,-86.8540078",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add7d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. MEXICO",
+  "ubicacion_base": "21.133483,-86.8605309",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add7e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. CHAC MOOL",
+  "ubicacion_base": "21.1330934,-86.8657315",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add7f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE 127",
+  "ubicacion_base": "21.1330827,-86.8721449",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add80"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - AV. 135",
+  "ubicacion_base": "21.1328432,-86.8765783",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add81"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE FONATUR",
+  "ubicacion_base": "21.1303517,-86.876477",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add82"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - PORTO BONELLI",
+  "ubicacion_base": "21.127249,-86.8769324",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add83"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - PORTO ROMA",
+  "ubicacion_base": "21.1244716,-86.8778961",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add84"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - CALLE RODIN",
+  "ubicacion_base": "21.1214644,-86.8790245",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add85"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - SORIANA",
+  "ubicacion_base": "21.1166605,-86.8814063",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644ae55b124b4fd7573add86"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 26 - JARDINES DEL SUR 3",
+  "ubicacion_base": "21.1098394,-86.884033",
+  "numero_ruta": 26
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add87"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ISLA CAMARONES",
+  "ubicacion_base": "21.175582,-86.9053048",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add88"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. OBSIDIANA",
+  "ubicacion_base": "21.1735911,-86.9041515",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add89"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. ISLA HAITI",
+  "ubicacion_base": "21.1717864,-86.9073701",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add8a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. ISLA BORA",
+  "ubicacion_base": "21.1707277,-86.9094449",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add8b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. REPUBLICA DOMINICANA",
+  "ubicacion_base": "21.1696372,-86.9114441",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add8c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. ISLA MARGARITA",
+  "ubicacion_base": "21.17162,-86.9127371",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add8d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. LAK IN",
+  "ubicacion_base": "21.170936,-86.9141856",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add8e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ISLA SN PEDRO",
+  "ubicacion_base": "21.1734408,-86.9142606",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add8f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - MULTIPLAZA ARCO NORTE ",
+  "ubicacion_base": "21.1756749,-86.9142821",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add90"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ISLA LAK IN",
+  "ubicacion_base": "21.1779872,-86.9142262",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add91"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ISLA LAK IN 2",
+  "ubicacion_base": "21.1802054,-86.9142594",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add92"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ISLA LAK IN 3",
+  "ubicacion_base": "21.1832531,-86.9142799",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add93"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ISLA SAONA",
+  "ubicacion_base": "21.1811091,-86.913246",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add94"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ISLA LAK IK 4",
+  "ubicacion_base": "21.1780061,-86.9132246",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add95"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ARCO NORTE",
+  "ubicacion_base": "21.1771535,-86.9137675",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add96"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CHEDRAUI",
+  "ubicacion_base": "21.1756528,-86.9144435",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add97"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - FRACC ARCO PARAISO",
+  "ubicacion_base": "21.1726063,-86.9144327",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add98"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - FRACC NUEVO",
+  "ubicacion_base": "21.1689928,-86.9144755",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add99"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV.3",
+  "ubicacion_base": "21.1660967,-86.9146264",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add9a"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE VICARIA",
+  "ubicacion_base": "21.1653619,-86.9166952",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add9b"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. ARCO NORTE",
+  "ubicacion_base": "21.1653019,-86.9189689",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add9c"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE CANLOL",
+  "ubicacion_base": "21.1652919,-86.9221715",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aeca5124b4fd7573add9d"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE TULIPAN",
+  "ubicacion_base": "21.1649332,-86.9250423",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573add9e"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. CHETUMAL",
+  "ubicacion_base": "21.1613013,-86.9250688",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573add9f"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - COLEGIO DE BACHILLERES",
+  "ubicacion_base": "21.1610891,-86.9196509",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda0"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. ARCO NORTE",
+  "ubicacion_base": "21.1610891,-86.9196509",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda1"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - LOS PICOS",
+  "ubicacion_base": "21.1613309,-86.9163023",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda2"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE PALMITO",
+  "ubicacion_base": "21.1589696,-86.9139419",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda3"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - PALMA AFRICANA",
+  "ubicacion_base": "21.1561136,-86.9122087",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda4"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - BODEGA AURRERA",
+  "ubicacion_base": "21.1532319,-86.9106852",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda5"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - VILLAS OTOCH PARAISO",
+  "ubicacion_base": "21.151671,-86.9080888",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda6"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - LEONA VICARIO",
+  "ubicacion_base": "21.1490093,-86.9061147",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda7"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CHEDRAUI",
+  "ubicacion_base": "21.1454618,-86.9043875",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda8"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - RETORNO JAZMIN",
+  "ubicacion_base": "21.1438944,-86.9026385",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573adda9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - TIERRA MAYA",
+  "ubicacion_base": "21.1413355,-86.9022375",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644aef54124b4fd7573addaa"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. LOPEZ PORTILLO Y LAK IN",
+  "ubicacion_base": "21.1381734,-86.9016796",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644bd6a04ba2a2609c6e0de8"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ",
+  "ubicacion_base": "2",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0de9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - PEDREGAL BONFIL",
+  "ubicacion_base": "21.1395151,-86.8963074",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dea"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - SITIO TAXIS FORANEOS",
+  "ubicacion_base": "21.1402337,-86.8937005",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0deb"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - ESC. TECNICA 25",
+  "ubicacion_base": "21.1401618,-86.8905942",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dec"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE ITZALES",
+  "ubicacion_base": "21.1401518,-86.8881802",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0ded"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - VILLAS DEL LAGO",
+  "ubicacion_base": "21.1401518,-86.8843822",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dee"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - DE LOS MAYAS",
+  "ubicacion_base": "21.1401408,-86.8801365",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0def"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE 135",
+  "ubicacion_base": "21.1401208,-86.8772826",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df0"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE 129",
+  "ubicacion_base": "21.1400608,-86.873903",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df1"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. CHAC MOOL",
+  "ubicacion_base": "21.1399541,-86.8704989",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df2"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - SORIANA CHAC MOOL",
+  "ubicacion_base": "21.139917,-86.8672897",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df3"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. MEXICO",
+  "ubicacion_base": "21.139877,-86.8613459",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df4"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. COMALCALCO",
+  "ubicacion_base": "21.1396769,-86.8578912",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df5"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE TEPICH GRAN PLAZA",
+  "ubicacion_base": "21.1407576,-86.8546082",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df6"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - LA GRAN PLAZA",
+  "ubicacion_base": "21.1408888,-86.8514943",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df7"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. LA LUNA",
+  "ubicacion_base": "21.1409211,-86.8487717",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df8"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE HORMIGA",
+  "ubicacion_base": "21.1409611,-86.8459768",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0df9"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CALLE KAAN-LOL",
+  "ubicacion_base": "21.1410787,-86.8421573",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dfa"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - CORAL",
+  "ubicacion_base": "21.1411487,-86.8379194",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dfb"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. KABAH",
+  "ubicacion_base": "21.1412288,-86.834482",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dfc"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - AV. CONTOY",
+  "ubicacion_base": "221.1419795,-86.8308198",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dfd"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - PABELLON CARIBE",
+  "ubicacion_base": "21.1435356,-86.8284722",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dfe"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - HOTEL IBIS",
+  "ubicacion_base": "21.143879,-86.8258596",
+  "numero_ruta": 44
+},{
+  "_id": {
+    "$oid": "644be3f34ba2a2609c6e0dff"
+  },
+  "fecha": "26/04/2023",
+  "nombre_base": "BASE RUTA 44 - PLAZA LAS AMERICAS",
+  "ubicacion_base": "21.1455152,-86.8242105",
+  "numero_ruta": 44
+}]
